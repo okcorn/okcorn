@@ -1,7 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=120&animation=blink&text=🧑‍💻%20Jisoo%20OK)
 
-## Who am I ?
+## Who am I 🤳
 <strong>A frontend developer who strives to become a better developer each day than I was yesterday.</strong>  <br><br>
 <ul>
 <li> 🧰 Not afraid of failure when it comes to problem-solving, and also enjoy collaborating with others to find solutions.</li>
@@ -30,4 +30,7 @@
 <br />
 <br />
 
-<!-- ![okcorn's GitHub stats](https://github-readme-stats.vercel.app/api?username=okcorn&show_icons=true&theme=radical) -->
+<!-- 
+  ![okcorn's GitHub stats](https://github-readme-stats.vercel.app/api?username=okcorn&show_icons=true&theme=radical) 
+  ![contribution](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=okcorn&theme=nord_dark)
+-->
